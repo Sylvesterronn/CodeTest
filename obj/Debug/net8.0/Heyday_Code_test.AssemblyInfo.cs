@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Heyday_Code_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9e3fd920b24bd038f0e84d6a16ae813b6c6ce1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62b6cfe8f6ca37b3dee044aa33c7134509e9445c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Heyday_Code_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Heyday_Code_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
