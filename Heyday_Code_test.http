@@ -1,0 +1,6 @@
+@Heyday_Code_test_HostAddress = http://localhost:5159
+
+GET {{Heyday_Code_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
